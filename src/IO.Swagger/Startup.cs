@@ -81,7 +81,7 @@ namespace IO.Swagger
                            Url = new Uri("https://github.com/swagger-api/swagger-codegen"),
                            Email = ""
                         },
-                        TermsOfService = new Uri("https://google.at")
+                        TermsOfService = new Uri("https://google.com")
                     });
                     c.CustomSchemaIds(type => type.FullName);
                     c.IncludeXmlComments($"{AppContext.BaseDirectory}{Path.DirectorySeparatorChar}{_hostingEnv.ApplicationName}.xml");

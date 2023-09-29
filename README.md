@@ -1,2 +1,0 @@
-# SWKOM
-Document Management System

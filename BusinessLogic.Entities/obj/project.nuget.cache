@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vmZBTp6aPeZdE+1tvNxp1C5ICh+Y/Jx53fI8ZxO1nqnQLhVOJxHCGARjpBFsBWCHaJnk5pCcKYYLryC/oXvniA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lukas\\Source\\Repos\\DYO1407\\SWKOM\\BusinessLogic.Entities\\BusinessLogic.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
